@@ -1,3 +1,4 @@
 # Digital_electronic_experiment
 ## 本项目为作者在2021年下半学期数字电路实验的大作业所完成项目
-本次实验利用Logisim软件实现了
+本次实验利用Logisim软件实现了自动汉字的循环
+利用py程序和cpp自动获取指定句子循环偏移量，再通过更改.circ文件中ROM的值来实现任意句子的循环
